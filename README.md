@@ -1,4 +1,12 @@
 
+# 🌍 Travel Destinations Website
+
+This is a beginner HTML project featuring a collection of inspiring travel destinations. Perfect for those exploring HTML and web development fundamentals!
+
+
+## Prerequisites
+
+Web Browser: Any modern web browser (e.g., Chrome, Firefox, Safari).
 ## Run Locally
 
 Clone the project
