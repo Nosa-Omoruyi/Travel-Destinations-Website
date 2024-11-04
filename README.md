@@ -21,7 +21,7 @@ Go to the project directory
   cd Travel-Destinations-Website
 ```
 
-Open in Browser
+Run this command, in the project's directory to open the browser
 
 ```bash
   start index.html
